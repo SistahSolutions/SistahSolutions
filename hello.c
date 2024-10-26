@@ -2,5 +2,5 @@
 
 int main{void}
 {
- pprintf{"Hello, world."};
+ pprintf{"Hello, world.\n"};
 }
